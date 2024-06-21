@@ -34,9 +34,9 @@ Course website:
 
 - Github repo: https://github.com/jiamingmao/data-analysis
 
-- Homework submission: http://l.xmu.edu.cn (Moodle; pw: raven)
+- Homework submission: http://l.xmu.edu.cn (SPOC; pw: raven)
 
-- Class discussion: https://piazza.com/xmu.edu.cn/spring2019/microeconometrics (Piazza)
+- Discussion and announcements: WeChat Group
 
 Course materials are continually updated and posted to the website and the Github repository. It is recommended that you clone the repo and pull regularly to get updates (here is information on  [how](https://jiamingmao.github.io/principles-of-economics/Software)).
 
@@ -45,40 +45,14 @@ Course materials are continually updated and posted to the website and the Githu
 # Teaching Staff
 
 **Instructor**
+
 - Jiaming Mao
 
     - Office: D303 Economics Building
     
-    - Office Hour: Wed 2:00 - 4:00pm or by appointment
+    - Office Hour: by appointment
     
     - Email: [jmao@xmu.edu.cn](Emailto: jmao@xmu.edu.cn)
-    
-**Assistant**
-- Tie Shi ([shitie@stu.xmu.edu.cn](Emailto: shitie@stu.xmu.edu.cn))
-
-- Xiaoqin Wang ([xqwang@stu.xmu.edu.cn](Emailto: xqwang@stu.xmu.edu.cn))
-
----
-
-# Time and Location
-
-**Session 1**
-
-- Time: Tue, Thu 8:00 - 9:40am
-
-- Location: Haiyun 408 (Tue), Nanqiang 402 (Thu)
-
-**Session 2** 
-
-- Time: Tue, Thu 2:30 - 4:10pm
-
-- Location: Lianxing 401
-
-**Review** 
-
-- Time: Fri 7:00 - 8:00pm
-
-- Location: Nanqiang 304
 
 ---
 
@@ -99,7 +73,7 @@ This course offers a *unified* introduction to:
 
 <div style='float:left'></div><hr color='#EB811B' size=1px width=796px>
 
-- Goal is equip you with both a solid theoretical foundation, and the tools to conduct empirical research using state-of-the-art technology.
+- The goal is to equip you with both a solid theoretical foundation, and the tools to conduct empirical research using state-of-the-art technology.
 
 - Lecture materials are written to be both deep conceptually and easy to follow technically.
 
@@ -115,35 +89,19 @@ This course offers a *unified* introduction to:
 
 - This course is fast paced and covers a lot of ground. 
 
-    - It is *highly recommended* that you preview the lecture materials before each class and review them afterwards.
+    - It is *highly* recommended that you preview the lecture materials before each class and review them afterwards.
     
-    - It is *also recommended* that you form study groups to discuss the materials and work together to understand them.
-
----
-
-# This Course 
-
-- Weekly review sessions will go over course materials, as well as programming and data analysis problems.
-
-    - Consider them partly as lab sessions!
-    
-- Due to time constraint, many topics discussed in the lecture notes will not be covered in detail in class.
-
-    - You are encouraged to read them by yourself or in study groups.
-    
-    - If you have any questions, ask them on Piazza!
-    
-> How much you learn depends on how much time you spend.
+    - It is *also* recommended that you form study groups to discuss the materials and work together to understand them.
 
 ---
 
 # Computing
 
-- You are expected to have some familiarity with *at least one* programming/statistical computing language. 
+- You are expected to have some familiarity with *at least one* programming/statistical computing languages (`R`, `Python`, `Matlab`, `Stata`, etc.). 
 
-- Lectures are written in `R`, but examples in `Python` and `Stata` are also provided. 
+- Lectures are written in `R`. 
 
-- For your homework and final project, you can choose *any* language you want.
+- For homework and final project, you can choose *any* language you want.
 
 ---
 
@@ -155,54 +113,35 @@ This course offers a *unified* introduction to:
 
 Final Grade | 100%
 -------- | -------
-Midterm Exam | 10%
-Final Exam | 10%
 Homework | 50%
-Final Project | 30%
-Class (Piazza) Participation | 5% extra credit
+Final Exam | 30%
+Final Project | 20%
 
 ---
 
 # Homework
 
-- Homework assignments are submitted on [Moodle](http://l.xmu.edu.cn).
+- Homework assignments are submitted on [SPOC](http://l.xmu.edu.cn).
 
 - One homework for each lecture:
 
-    - Writing a report on a lecture-related topic
+    - Report on a lecture-related topic
     
-    - Empirical applications of methods
+    - Referee report on a lecture-related paper
     
-    - Coding examples into other languages
+    - Empirical applications of statistical and econometric methods
     
-- You are encouraged to discuss and collaborate with classmates. Up to 2 individuals are allowed to work together on a single homework (collaborators submit 1 homework only).
-
-- In addition, we may have small quizzes and tasks for each lecture.
-
----
-
-# Communications
-
-- We will be using [Piazza]( https://piazza.com/xmu.edu.cn/spring2019/microeconometrics) for course related discussions.
-
-- If you any questions about course materials, the best way to get answers is to ask them on Piazza.
-
-    - Other students invariably have the same questions as you do and everyone can benefit from the discussions.
+    - Completing "homework challenges" for extra credits
     
-    - You can edit questions and answers wiki-style.
-    
-    - You can be anonymous if you wish.
-    
-    - You can also send private notes to the teaching staff.
-    
-- Active participation on Piazza (both posting and answering questions) earns up to 5% extra credit. 
+- You are encouraged to discuss and collaborate with classmates. Up to **2** individuals are allowed to work together on a single homework.
 
 ---
 
 # Where can I learn more?
 
-- [Syllabus](https://jiamingmao.github.io/data-analysis/assets/syllabus.pdf): recommended readings  
+- [The Official Syllabus](https://jiamingmao.github.io/data-analysis/assets/syllabus.pdf)
+
+- Recommended readings: https://jiamingmao.github.io/data-analysis/Info
 
 - Related courses, programming resources, etc.: https://jiamingmao.github.io/data-analysis/Resources
 
-- My book list on data science: https://www.goodreads.com/review/list/59975031-jiaming-mao?shelf=data-science
